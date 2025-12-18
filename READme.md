@@ -84,7 +84,7 @@ NexGen currently faces a **46.7%** delay rate, causing a drastic drop in custome
 
 ---
 
-📝 **Author**: Ronith Dhanesh, Logistics Innovation Analyst
+📝 **Author**: Ronith Dhanesh
 
 ```
 
