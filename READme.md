@@ -18,15 +18,16 @@ NexGen currently faces a **46.7%** delay rate, causing a drastic drop in custome
 ## 📂 Project Structure
 
 ```plaintext
-├── app.py                 # Main Streamlit Application
-├── requirements.txt       # Project Dependencies
-├── Dockerfile             # Container configuration
-├── .env.example           # Template for API keys
+├── app.py
+├── requirements.txt
+├── Dockerfile
+├── .env.example
 ├── src/
 │   ├── trainer.py         # ML Pipeline (Data merging & Model training)
 │   ├── optimizer.py       # Prescriptive "Pivot" search logic
 │   └── ai/
-│       └── ai_services.py # LLM-based Natural Language Generation
+│       └── services.py # LLM-based Natural Language Generation
+│       └── llms.py
 ├── models/                # Trained AI artifacts & processed data
 └── data/                  # 7 core logistics datasets
 
