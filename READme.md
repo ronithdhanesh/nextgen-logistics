@@ -1,4 +1,3 @@
-````markdown
 # 🚀 NexGen Predict & Pivot: AI-Powered Logistics Optimizer
 
 NexGen Predict & Pivot is an advanced logistics intelligence suite designed to transform NexGen’s delivery operations. By integrating Machine Learning, Predictive Analytics, and Generative AI, this tool moves beyond simple tracking to offer real-time risk mitigation and sustainability optimization.
@@ -30,8 +29,8 @@ NexGen currently faces a **46.7%** delay rate, causing a drastic drop in custome
 │       └── ai_services.py # LLM-based Natural Language Generation
 ├── models/                # Trained AI artifacts & processed data
 └── data/                  # 7 core logistics datasets
+
 ```
-````
 
 ## ⚙️ Setup & Installation
 
